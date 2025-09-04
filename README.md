@@ -1,5 +1,5 @@
-#7ooP
+## 7 Object-Oriented Programming
 
-<img src="https://github.com/villarjames0550/700P-James-Portfolio.xd/blob/main/HelloI-ezgif.com-video-to-gif-converter.gif" alt="Cool you found me" width="70%" height= "30%"/>
+<img src="https://github.com/villarjames0550/700P-James-Portfolio.xd/blob/main/HelloI-ezgif.com-video-to-gif-converter.gif" alt="Cool you found me" width="60%" height= "20%"/>
 
-## Kuhang kuha moko ah💋
+##
